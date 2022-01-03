@@ -45,6 +45,4 @@ Here are some ideas to get you started:
    <br>
   Instagram:https://www.instagram.com/divya_dpsc/
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyadpsc"/> </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyadpsc&show_icons=true"/></p>
