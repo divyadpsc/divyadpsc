@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **divyadpsc/divyadpsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,16 +36,15 @@ Here are some ideas to get you started:
 <h2 align="center">A Tech Enthusiast from India</h2>
 
 - 😄 Pronouns: She/Her
-- 🌱 Currently involved in stuffs related to MERN stack, Blockchain, System Design etc...
+- 🌱 Currently involved in stuffs related to MERN stack etc....
 - 🔭 Love to LEETCODE..!
 - 👯 I’m looking to collaborate on some cool projects with sharp learning curve
-- ⚡ Also, an avid reader, basketball enthusiast, web shows freak and love to mentor and motivate people.
-- ✨ SWE Intern at Qualcomm'22, Groww'21
+- ⚡ Also, love to draw..and play badminton.
 - 📫 How to reach me:  <br>
-   Linkedin : https://www.linkedin.com/in/prerna-singh-497448177/
+   Linkedin : https://www.linkedin.com/in/divya-singh-54174818b/
    <br>
-   Twitter : https://twitter.com/prerna_singh587
+  Instagram:https://www.instagram.com/divya_dpsc/
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrernaSingh587" alt="PrernaSingh587" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyadpsc"/> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrernaSingh587&show_icons=true" alt="PrernaSingh587" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyadpsc&show_icons=true"/></p>
